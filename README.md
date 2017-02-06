@@ -1,4 +1,7 @@
 # TextCal
+A Fullscreen Calendar that works with your plain text Todo List. No data lock-in, no proprietary formats.
+http://www.textcal.com
+
 TextCal Support Site.
 
-* Please file Issues (Suggestions, Feedbacks, Bug Reports, etc.)
+* Please file Issues for Inquiries, Suggestions, Feedbacks, Feature Requests, Bug Reports, etc.
